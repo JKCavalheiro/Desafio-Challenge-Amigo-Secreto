@@ -4,7 +4,7 @@
 
 <h3> Desafio proposto para entrega via github à Alura - curso Oracle ONE</h3>
 
-<p> Este projeto propõe o desenvolvimento de uma aplicação, a qual tem por finalidade sortear, de maneira aleatória, o nome 
+<p> Este projeto propõe o desenvolvimento de uma aplicação [(https://desafio-challenge-amigo-secreto.vercel.app/)], a qual tem por finalidade sortear, de maneira aleatória, o nome 
 de um amigo participante do evento amigo secreto. Tal aplicação deve apresentar as seguintes funcionalidades:
   
 1) O campo de entrada para digitação dos nomes pelo usuário deve ser um campo de texto, o qual não aceitará valor vazio,
