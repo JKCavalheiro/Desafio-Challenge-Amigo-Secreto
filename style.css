@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #FFF9EB;
+    --color-primary: #AD0EF0;
+    --color-secondary: #000000;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
-    --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-text: #FFFFFF;
+    --color-white: #000000;
 }
 
 /* Estilos gerais */
@@ -36,8 +36,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 0 0;
+    padding: 5% 0 0;
 }
+
 
 /* Seção de entrada */
 .input-section {
@@ -48,13 +49,13 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    padding: 80px;
     width: 100%;
 }
 
 /* Títulos */
 .main-title {
-    font-size: 48px;
+    font-size: 40px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
@@ -63,7 +64,7 @@ body {
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;
@@ -84,7 +85,7 @@ body {
     padding: 10px;
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .button-container {
@@ -96,7 +97,7 @@ body {
 .input-title {
     flex: 1;
     padding: 10px 15px;
-    font-size: 16px;
+    font-size: 20px;
     border: 2px solid #333;
     border-right: none;
     border-radius: 25px 0 0 25px;
@@ -108,7 +109,7 @@ body {
 button {
     padding: 15px 30px;
     font-family: "Inter", sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     border: 2px solid #000;
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -131,13 +132,13 @@ ul {
     color: var(--color-text);
     font-family: "Inter", sans-serif;
     font-size: 18px;
-    margin: 20px 0;
+    margin: 16px 0;
 }
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
-    font-size: 22px;
+    color: #FFFFFF;
+    font-size: 18px;
     font-weight: bold;
     text-align: center;
 }
