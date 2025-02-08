@@ -55,7 +55,7 @@ body {
 
 /* Títulos */
 .main-title {
-    font-size: 40px;
+    font-size: 35px;
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
@@ -64,7 +64,7 @@ body {
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 30px;
+    font-size: 27px;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;
@@ -123,13 +123,13 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: var(--color-button);
 }
 
 /* Listas */
 ul {
     list-style-type: none;
-    color: var(--color-text);
+    color: var(--color-tertiary);
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 16px 0;
@@ -137,8 +137,8 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #FFFFFF;
-    font-size: 18px;
+    color: var(--color-primary);
+    font-size: 19px;
     font-weight: bold;
     text-align: center;
 }
