@@ -9,8 +9,8 @@ de um amigo participante do evento amigo secreto. Tal aplicação deve apresenta
   
 1) O campo de entrada para digitação dos nomes pelo usuário deve ser um campo de texto, o qual não aceitará valor vazio,
 seguido pelo botão ''' Adicionar''';
-3) Os nomes digitados serão exibidos em uma lista na própia página, logo abaixo do campo de entrada;
-4) Um desses nomes será sorteado aleatoriamente após o click no botão ''' Sortear Amigo '''' e o resultado será mostrado
+2) Os nomes digitados serão exibidos em uma lista na própria página, logo abaixo do campo de entrada;
+3) Um desses nomes será sorteado aleatoriamente após o click no botão ''' Sortear Amigo '''' e o resultado será mostrado
 em tela;
 
 Para o desenvolvimento dessas funcionalidades, tarefas especificas foram exigidas como requisitos:
@@ -34,6 +34,6 @@ exibir o amigo sorteado. </p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# Autores
+# Autora
 
 [<img loading="lazy" src= "https://avatars.githubusercontent.com/u/95052063?v=4" width=115><br><sub> Jakeline Cavalheiro </sub>](https://github.com/JKCavalheiro)
